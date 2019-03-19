@@ -1,0 +1,1783 @@
+{
+  "id": "deb1f246-5ade-48ed-aaff-22d317cc8c0d",
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "id": "it-001",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Allopurinol "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Allopurinol "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "100",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-002",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Ambroxol"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385023001,
+            "display": "Oral solution"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Ambroxol"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "15",
+              "unit": "mg/5ml"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-003",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Moduretic"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Amiloride cloridrato biidrato"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Idroclorotiazide"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "50",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-004",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Amlodipin"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Amlodipin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-005",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Aprovel"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Irbesartan"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "150",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-006",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Atoris"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Atorvastatin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "10",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-007",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Atoris"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Atorvastatin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "20",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-008",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Biotin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385049006,
+            "display": "Capsule"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Biotin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "2,5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-009",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Biotin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385049006,
+            "display": "Capsule"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Biotin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-010",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Biotin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385049006,
+            "display": "Capsule"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Biotin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "10",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-011",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "BisoHexal"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Bisoprolol hemifumarat"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "2,5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-012",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "BisoMerck"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Bisoprolol hemifumarat"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-013",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Candecor comp."
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Candesartan"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "16",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Hydrochlorothiazid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "12,5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-014",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Calcium Brausetablette"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385043007,
+            "display": "Granules"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Calcium Brausetablette"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "500",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-015",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Citalopram "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Citalopram "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "20",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-016",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Dermatin"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Terbinafin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "250",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-017",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Digimerck minor"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Digitoxin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "0,07",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-018",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Dytide H"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Triamteren"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "50",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Hydrochlorothiazid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "25",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-019",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Enalapril plus"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Enalapril"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "20",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Hydrochlorothiazid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "12,5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-020",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Enalapril "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Enalapril "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "10",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-021",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Folsan"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Fols\u00e4ure"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-022",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "HCT"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Hydrochlorothiazid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "12,5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-023",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Humalog"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": "pic-002",
+            "display": "Injection"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Insulin lispro"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "100",
+              "unit": "Einheiten/mL"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-024",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Inegy"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Ezetimib"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "10",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Simvastatin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "40",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-025",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Lamotrigin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Lamotrigin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "150",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-026",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Lercanidipin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Lercanidipin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "10",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-027",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Levemir"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": "pic-002",
+            "display": "Injection"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Insulin detemir"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "100",
+              "unit": "Einheiten/mL"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-028",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Losartan "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Losartan "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "100",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-029",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Levothyroxin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Levothyroxin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "125",
+              "unit": "\u00b5g"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-030",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Levothyroxin"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Levothyroxin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "75",
+              "unit": "\u00b5g "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-031",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "L-Thyrox Jod"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Levothyroxin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "125",
+              "unit": "\u00b5g "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Kaliumiodid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "150",
+              "unit": "\u00b5g "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-032",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Marcumar"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Phenprocoumon"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "3",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-033",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "MCP"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Metoclopramid hydrochlorid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "10",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-034",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Metohexal"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Metoprolol succinat"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "95",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-035",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "MetoHexal succ."
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Metoprolol succinat"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "23,75",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-036",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Mirtazapin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Mirtazapin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "30",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-037",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "NaCl-L\u00f6sung"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": ""
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "NaCl-L\u00f6sung"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "1",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-038",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Nitrangin"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": ""
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Glyceroltrinitrat"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "0,4",
+              "unit": "mg/0.05 ml Spray = 1 Spr\u00fchsto\u00df"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-039",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Pradaxa"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Dabigatran etexilat"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "120",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-040",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Primidon"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Primidon"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "250",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-041",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Ramipril"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Ramipril"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "2,5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-042",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Simvastatin "
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Simvastatin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "40",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-043",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Thyronajod 50"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Levothyroxin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "50",
+              "unit": "\u00b5g"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Kaliumiodid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "150",
+              "unit": "\u00b5g"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-044",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Tonotec"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Ramipril"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Amlodipin"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-045",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Torasemid"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Torasemid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "5",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-046",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Vimpat"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Lacosamid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "50",
+              "unit": "mg "
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-047",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Votum plus"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Olmesartan"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "20",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        },
+        {
+          "itemReference": {
+            "display": "Hydrochlorothiazid"
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "12,5",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "it-048",
+      "resourceType": "Medication",
+      "manufacturer": {
+        "display": "Simva Aristo"
+      },
+      "form": {
+        "coding": [
+          {
+            "system": "",
+            "code": 385055001,
+            "display": "Tablet"
+          }
+        ]
+      },
+      "ingredient": [
+        {
+          "itemReference": {
+            "display": "Simvastatin "
+          },
+          "isActive": "true",
+          "amount": {
+            "numerator": {
+              "value": "10",
+              "unit": "mg"
+            },
+            "denominator": {
+              "value": "1",
+              "unit": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
